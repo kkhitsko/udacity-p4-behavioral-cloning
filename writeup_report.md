@@ -1,9 +1,6 @@
 # **Behavioral Cloning**
 
 ## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Behavioral Cloning Project**
@@ -29,9 +26,6 @@ The goals / steps of this project are the following:
 [image9]: ./out_images/right_recovery.jpg "Right Recovery Image"
 [hist1]: ./out_images/angles_hist.jpg "Steering angles histogram"
 [hist2]: ./out_images/angles_hist_normal.jpg "Steering angles histogram"
-
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.
 
 ---
 ### Files Submitted & Code Quality
